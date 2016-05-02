@@ -1,3 +1,3 @@
 # smart-party-simulator
 Projeto
-s
+Smart Party Simulator
