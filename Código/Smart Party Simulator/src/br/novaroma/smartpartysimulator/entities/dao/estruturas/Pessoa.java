@@ -1,3 +1,5 @@
+package br.novaroma.smartpartysimulator.entities.dao.estruturas;
+
 
 
 public class Pessoa {
